@@ -2,7 +2,7 @@
 
 Author: **Tohidul Islam Tareq**
 
-This repository contains clean, runnable Jupyter notebooks for machine learning prerequisites and classical ML algorithms. The notebooks are organized for CV/GitHub portfolio use.
+This repository contains Jupyter Notebooks for machine learning prerequisites and classical ML algorithms from my course Algorithm for Artificial Intelligence 1 and 2.
 
 ## Repository Structure
 
@@ -55,6 +55,5 @@ Open any notebook from the `notebooks/` folder and run all cells.
 
 ## Notes
 
-- All notebooks include the author name: **Tohidul Islam Tareq**.
 - External missing file dependencies were removed.
 - The examples use built-in or generated datasets so they can run reliably.
